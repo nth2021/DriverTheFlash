@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=6A:FA:B2:3D:E2:25:15:D0:58:A5:05:39:BA:22:85:62:0B:7E:36:6B%3Bcom.example.androidtheflash
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.example.androidtheflash
+
+    SHA-1 certificate fingerprint:
+    6A:FA:B2:3D:E2:25:15:D0:58:A5:05:39:BA:22:85:62:0B:7E:36:6B
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBOzA7wpX1GHOJpAWeEk9LQTWePFwpHEk0</string>
+</resources>
